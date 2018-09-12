@@ -26,15 +26,8 @@
   <artifactId>junit-dep</artifactId>
   <version>4.8.2</version>
 </dependency>
-    <!-- https://mvnrepository.com/artifact/org.codehaus.mojo/sonar-maven-plugin -->
-<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
-<dependency>
-    <groupId>org.sonarsource.scanner.maven</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.4.1.1168</version>
-</dependency>
-   
-  </dependencies>
+
+ </dependencies>
   <build>
     <finalName>CalculatorDemo</finalName>
   </build>
